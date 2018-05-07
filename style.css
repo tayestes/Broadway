@@ -1,5 +1,5 @@
 html{
-  font-family: Arial;
+  font-family: "Helvetica";
   text-align: center;
 }
 
@@ -22,12 +22,14 @@ h1{
 .designed{
   background-image: url("./images/the-flatiron-building.png");
   color: white;
+  font-size: 40px;
 }
 
 .footer{
   background-color: gray;
   color: white;
   text-align: left;
+  font-size: 11px;
 }
 
 h3{
@@ -37,5 +39,12 @@ h3{
 h4{
   font-size: 30px;
   font-weight: bold;
+}
+.footerbreak{
+  font-size: 16px;
+}
 
+p{
+  font-size: 20px;
+  line-height: 2;
 }
