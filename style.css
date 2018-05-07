@@ -5,4 +5,37 @@ html{
 
 .header{
   background-image: url("./images/the-flatiron-building.png");
+  background-size: cover;
+  color: white;
+}
+
+h1{
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.topmenu{
+  font-size: 20px;
+  line-height: 2;
+}
+
+.designed{
+  background-image: url("./images/the-flatiron-building.png");
+  color: white;
+}
+
+.footer{
+  background-color: gray;
+  color: white;
+  text-align: left;
+}
+
+h3{
+  font-size: 40px;
+  font-weight: bold;
+}
+h4{
+  font-size: 30px;
+  font-weight: bold;
+
 }
